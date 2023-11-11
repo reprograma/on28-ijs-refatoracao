@@ -8,6 +8,8 @@
   - https://docs.google.com/document/d/1aZKLupQ5yaHVrSN2Iso4zERXCbQC8JquktrHk7NGGA8/edit
 
 - Kauana (Jeanne)
+  - https://github.com/reprograma/on28-ijs-projeto1/pull/8
+  - https://docs.google.com/document/d/1QyGFz6AD9g2EhGIF05YITUucMZYnuRPjYyPCsJglJBE/edit?usp=sharing
 
 - Larissa (Beatriz)
   - https://github.com/bialocatelli/on28-ijs-projeto1/tree/beatriz-locatelli
