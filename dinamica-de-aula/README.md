@@ -56,7 +56,9 @@
   - https://github.com/reprograma/on28-ijs-projeto1/pull/20/files
   - https://docs.google.com/document/d/1NLlSatijan1d2IWBZpKlJCmzyC0XgW0GNRUNusizFg0/edit?usp=sharing
 
-- Sabrina
+ - Sabrina(Viviane)
+   -  https://github.com/reprograma/on28-ijs-prototype2/pull/18/files
+   -  https://docs.google.com/document/d/1dMAShfb2R8luJYUNgm7eK9NCTswefiWSfurU3R51ksU/edit
 
 - Viviane (Sabrina)
   - https://github.com/reprograma/on28-ijs-projeto1/pull/20/commits
