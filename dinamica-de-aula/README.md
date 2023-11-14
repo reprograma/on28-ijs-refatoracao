@@ -29,6 +29,8 @@
 
 #### Grupo 3
 - Andréa (Cintia)
+  - https://github.com/reprograma/on28-ijs-projeto1/pull/6
+  - https://docs.google.com/document/d/1Wr06N7Q1wL6o_Uy9ePks8Y5xSwkDr8EVVpW0Dxq0RIM/edit?usp=sharing
 
 - Cintia (Ellen)
   - https://github.com/reprograma/on28-ijs-projeto1/pull/5#pullrequestreview-1726093199
@@ -85,4 +87,5 @@
   - https://github.com/reprograma/on28-ijs-projeto1/pull/18
   - https://docs.google.com/document/d/1PBJsYGp52c0qv3l51V0c86X7SKvHKyTCac0Pow_iGq0/edit?usp=sharing
 
-- Talu
+- Talu (Camila)
+  - https://github.com/camilamlima/on28-ijs-projeto1/commit/679e3f523bc494754240b56b0aa7bed64c0b52d9
