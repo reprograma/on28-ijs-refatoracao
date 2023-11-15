@@ -109,7 +109,7 @@
   - https://github.com/reprograma/on28-ijs-projeto1/pull/2
   - https://docs.google.com/document/d/1t57CPGvmkSRyeJCe94nbnp7YpeBHtjgiLobZGzRv7lo/edit
   **Refatoração:**
-  - Refatorado: 
+  - Refatorado: https://github.com/reprograma/on28-ijs-projeto1/pull/28/files
   - Original:
 
 ##### - Laís (Roxanie e Heloiza)
