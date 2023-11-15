@@ -8,4 +8,4 @@ https://docs.google.com/document/d/1TBZ8jkS0orAVJJRPKNYPmuqNQNn0ns_GcDuOklKcQBc/
 [x] Refatore o código
 [x] A sua entrega será o link do fork do projeto com a branch de refatoração
 
-Link do projeto https://github.com/jeannefernanda/Tennis-Refactoring-Kata/pulls
+Link do projeto https://github.com/jeannefernanda/Tennis-Refactoring-Kata/pull/1
