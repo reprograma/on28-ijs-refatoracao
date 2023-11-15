@@ -60,8 +60,8 @@
   - https://github.com/reprograma/on28-ijs-projeto1/pull/5#pullrequestreview-1726093199
   - https://docs.google.com/document/d/1w2DabibCirshndXSODPD9kn6lc7iqptn29WsGTMNE2c/edit?usp=sharing
   **Refatoração:**
-  - Refatorado: 
-  - Original:
+  - Refatorado: https://github.com/reprograma/on28-ijs-projeto1/pull/27
+  - Original: https://github.com/reprograma/on28-ijs-projeto1/pull/6
 
 ##### - Ellen (Andrea)
   - https://github.com/reprograma/on28-ijs-projeto1/pull/15
