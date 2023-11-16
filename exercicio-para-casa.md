@@ -7,3 +7,5 @@ https://docs.google.com/document/d/1TBZ8jkS0orAVJJRPKNYPmuqNQNn0ns_GcDuOklKcQBc/
 - Crie uma branch de refatoração
 - Refatore o código
 - A sua entrega será o link do fork do projeto com a branch de refatoração
+
+Link da refatoração: https://github.com/veronicaparanhos/trip-service-kata/pull/1/files
